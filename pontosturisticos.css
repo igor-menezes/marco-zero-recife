@@ -1,0 +1,29 @@
+header {
+    background-color: wheat;
+    display: flex;
+    justify-content: space-between;
+    padding: 1rem;
+    margin-bottom: 1rem;
+}
+nav {
+background-color: whitesmoke
+font-size: 20px;
+
+}
+ul{
+    display: flex;
+    align-items: center;
+    height: 100%;
+
+}
+li {
+    margin-left: 1.5rem;
+    list-style: none;
+
+}
+main {
+    background-color: wheat;
+}
+footer {
+    background-color: wheat;
+}
